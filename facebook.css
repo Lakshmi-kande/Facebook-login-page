@@ -9,13 +9,13 @@
 h1{
     font-size:55px;
     color: blue;
-    foont-family:sans-serif;
+    font-family:sans-serif;
 }
 h2{
-    font-SFProDisplay:Helvetica, Arial,sans-serif;
+    font-Display:Helvetica, Arial,sans-serif;
     font-size:28px;
     font-weight:normal;
-    line-weight: 32px;
+    height: 32px;
     width:500px;
 }
 
@@ -82,6 +82,6 @@ p a{
 .btn button{
     background-color:green;
     margin-left:-5px;
-    margin right:-30px
+    margin-right:-30px
 }
 
